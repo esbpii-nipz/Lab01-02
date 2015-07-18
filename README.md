@@ -1,1 +1,22 @@
 # Lab01-02
+**Images for lab01**
+![Images lab1](http://i60.tinypic.com/2pq5jls.jpg)
+![Images lab1](http://i62.tinypic.com/168wkqq.jpg)
+![Images lab1](http://i59.tinypic.com/2akd7hw.jpg)
+![Images lab1](http://i61.tinypic.com/arp88.jpg)
+![Images lab1](http://i62.tinypic.com/3166udw.jpg)
+![Images lab1](http://i59.tinypic.com/2miwrm.jpg)
+![Images lab1](http://i59.tinypic.com/m94too.jpg)
+![Images lab1](http://i60.tinypic.com/f3b392.jpg)
+![Images lab1](http://i57.tinypic.com/2093q7q.jpg)
+![Images lab1](http://i60.tinypic.com/20gz135.jpg)
+![Images lab1](http://i60.tinypic.com/vr96j5.jpg)
+![Images lab1](http://i58.tinypic.com/2luq71j.jpg)
+![Images lab1](http://i59.tinypic.com/2qaq0c7.jpg)
+**Images for lab02**
+![Images lab2](http://i62.tinypic.com/dme780.jpg)
+![Images lab2](http://i60.tinypic.com/sbuem8.jpg)
+![Images lab2](http://i62.tinypic.com/2yo4fg5.jpg)
+![Images lab2](http://i61.tinypic.com/bikklu.jpg)
+![Images lab2](http://i58.tinypic.com/de8v7t.jpg)
+![Images lab2](http://i59.tinypic.com/2gvmxr6.jpg)
